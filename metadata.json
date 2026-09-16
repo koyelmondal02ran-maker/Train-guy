@@ -1,0 +1,6 @@
+{
+  "name": "Indian Railways Dynamic ETA Predictor",
+  "description": "Data-driven dynamic Expected Time of Arrival (ETA) forecasting system for Indian Railways express and suburban local trains (EMU/MEMU) integrating GPS telemetry, block section congestion, signal aspects, and operational factors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
